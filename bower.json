@@ -1,0 +1,23 @@
+{
+  "name": "startangular",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Thang Nguyen (Win) <nguyenhongthangnl@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "bootstrap": "^3.3.6",
+    "angular": "^1.5.6",
+    "angular-route": "^1.5.6"
+  }
+}
